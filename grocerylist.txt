@@ -1,0 +1,5 @@
+this contains the list of all items
+1.fruits
+2.vegatebles
+3.milk products
+4.daily products
